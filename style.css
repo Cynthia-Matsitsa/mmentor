@@ -1,0 +1,156 @@
+#homepage{
+    font-size: 200%;
+    justify-content: space-between;
+    
+    
+}
+#footer{
+   font-size: 30%; 
+   display: flex;
+   gap: 300px;
+   text-align: center;
+   background-color:lightskyblue;
+   height: 280px;
+   margin-top: 10%;
+   width: 1809px;
+   
+
+
+}
+#lesson{
+    margin-left: 200px;
+}
+#mentorlogo{
+    display: flex;
+    gap: 100px;
+    
+}
+#lesson{
+    font-size: 180%;
+    margin-top: 5%;
+
+}
+#contact{
+    font-size: 150%;
+    margin-top: 5%;
+
+}
+#location{
+    font-size: 150%;
+    margin-top: 5%;
+}
+#word{
+    font-size: 150%;
+}
+#about{
+    font-size: 180%;
+    margin-top: 5%;
+}
+#teach{
+    font-size: 200%;
+    margin-top: 5%;
+}
+.image2{
+    margin-left: 150%;
+    width: 50%;
+    
+    
+}#quote1{
+    font-size: 180%;
+}
+#quote2{
+    font-size: 180%;
+}
+#text{
+    margin-left: 40%;
+}
+#program1{
+    font-size: 180%;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (min-width : 280px) and (max-width : 400px){
+    
+    #homepage{
+        font-size: 150%;
+        justify-content: space-between;
+        
+        
+    }
+    #footer{
+       font-size: 30%; 
+       display: flex;
+       gap: 3px;
+       background-color:lightskyblue;
+       height: 100px;
+       width: 290px;
+       
+    
+    
+    }
+    #lesson{
+        margin-left: 3px;
+    }
+    #mentorlogo{
+        display: flex;
+        gap: 20px;
+        
+    }
+    #lesson{
+        font-size: 130%;
+        margin-top: 1%;
+    
+    }
+    #contact{
+        font-size: 130%;
+        margin-top: 1%;
+    
+    }
+    #location{
+        font-size: 130%;
+        margin-top: 1%;
+    }
+    #word{
+        font-size: 130%;
+    }
+    #about{
+        font-size: 130%;
+        margin-top: 5%;
+    }
+    #teach{
+        font-size: 130%;
+        margin-top: 1%;
+    }
+    .image2{
+        margin-left: 20%;
+        width: 50%;
+        
+        
+    }#quote1{
+        font-size: 130%;
+    }
+    #quote2{
+        font-size: 130%;
+    }
+    #text{
+        margin-left: 3%;
+    }
+    #program1{
+        font-size: 120%;
+        
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    } 
+    #containerholder{
+        height: -300px;
+        width:-200px ;
+    }
+}
+
+

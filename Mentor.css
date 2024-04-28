@@ -1,0 +1,30 @@
+
+#image10{
+    margin-left: 78%;
+    width: 20%;
+}
+#profile{
+  margin-left: 30%;
+  margin-bottom: 2%;
+}
+#sentence{
+    font-size: 160%;
+    margin-left: 20%;
+}
+#footer{
+    background-color: lightskyblue;
+    height: 130px;
+    margin-top: 1%;
+}
+#navbar9{
+    display: flex;
+    gap: 180px;
+    font-size: 150%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+

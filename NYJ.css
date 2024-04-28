@@ -1,0 +1,27 @@
+.navbar3{
+    display: flex;
+    gap: 180px;
+    font-size: 150%;
+}
+.summary{
+    font-size: 130%;
+}
+.footer{
+    border: solid;
+    height:386px;
+    background-color: lightskyblue;
+    border-style: hidden; 
+}
+.image9{
+    margin-left: 90%;
+    margin-bottom: 1%;
+    width: 5%;
+    height: 5%;  
+}
+.content{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

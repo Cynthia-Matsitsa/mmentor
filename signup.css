@@ -1,0 +1,170 @@
+.signpage{
+  color: lightskyblue;
+  text-align: center;
+
+}
+.email{
+  border: solid;
+  border-radius: 15px;
+  padding: 20px;
+  width: 30%;
+
+}
+.name{
+  border: solid;
+  border-radius: 15px;
+  padding: 20px;
+  width: 30%;
+  
+
+}
+.lastname{
+  border: solid;
+  border-radius: 15px;
+  padding: 20px;
+  width: 30%;
+  margin-bottom: 1%;
+}
+.password{
+  border: solid;
+  border-radius: 15px;
+  padding: 20px;
+  width: 30%;
+  
+  
+}
+.page{
+  margin-left: 690px;
+}
+.footer1{
+ background-color: lightskyblue;
+ height: 270px;
+ margin-top: 3%;
+  
+}
+.sign{
+  border: solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 90px;
+    margin-top: 2%;
+  
+}
+.icon{
+  margin-left: 200%;
+}
+.navbars{
+    display: flex;
+    gap: 180px;
+    font-size: 200%;
+}
+.sign1{
+  border: solid;
+  border-radius: 15px;
+  padding: 20px;
+  width: 20%;
+  margin-left: 8%;
+}
+.image2{
+  margin-left: 90%;
+  margin-bottom: 1%;
+  width: 5%;
+  height: 5%;
+}
+.contain{
+  margin-bottom: 1%;
+}
+.image3{
+  margin-left: 20%;
+}
+#quote3{
+  font-size: 180%;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+@media screen and (min-width:280px)and (max-width:400px){
+  .signpage{
+    color: lightskyblue;
+    text-align: center;
+  
+  }
+  .email{
+    border: solid;
+    border-radius: 5px;
+    padding: 5px;
+    width: 15%;
+  
+  }
+  .name{
+    border: solid;
+    border-radius: 15px;
+    padding: 5px;
+    width: 15%;
+    
+  
+  }
+  .lastname{
+    border: solid;
+    border-radius: 5px;
+    padding: 5px;
+    width: 30%;
+    margin-bottom: 1%;
+  }
+  .password{
+    border: solid;
+    border-radius: 5px;
+    padding: 5px;
+    width: 15%;
+    
+    
+  }
+  .page{
+    margin-left: 20px;
+  }
+  .footer1{
+   background-color: lightskyblue;
+   height: 94px;
+   margin-top: 2%;
+   width: 300px;
+    
+  }
+  .sign{
+    border: solid;
+      border-radius: 15px;
+      padding: 20px;
+      margin-left: 90px;
+      margin-top: 2%;
+    
+  }
+  
+  .sign1{
+    border: solid;
+    border-radius: 15px;
+    padding: 5px;
+    width: 20%;
+    margin-left: 8%;
+  }
+  .image2{
+    margin-left: 40%;
+    margin-bottom: 1%;
+    width: 5%;
+    height: 5%;
+  }
+  .contain{
+    margin-bottom: 1%;
+  }
+  .image3{
+    margin-left: 20%;
+  }
+  #quote3{
+    font-size: 99%;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+}
+  
+

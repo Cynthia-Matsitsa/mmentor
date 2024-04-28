@@ -1,0 +1,127 @@
+.username{
+    border: solid;
+    border-radius: 15px;
+    padding: 20px;
+    width: 30%;
+    margin-bottom: 3%;
+}
+.password{
+    border: solid;
+    border-radius: 15px;
+    padding: 20px;
+    width: 30%;
+    margin-bottom: 3%;   
+}.log{
+    border: solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 90px;
+    margin-top: 4%;
+
+}
+.logopage{
+    text-align: center;
+    color: lightskyblue;
+    margin-right: 60%;
+    margin-bottom: 3%;
+    margin-left: 44%;
+}
+
+.footer2{
+    background-color: lightskyblue;
+    height: 339px;
+    width: 1900px;
+    margin-top: 1%;
+}
+
+.report{
+    border: solid;
+    border-radius: 15px;
+    padding: 20px;
+    width: 20%;
+    margin-left: 8%; 
+}
+.contains{
+    margin-left: 40%;
+}
+.image3{
+    margin-left: 80%;
+    width: 5%;
+    margin-bottom: 1%;
+}
+#quote4{
+    font-size: 100%; 
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+@media screen and (min-width: 280px)and(max-width: 400px){
+    .username{
+        border: solid;
+        border-radius: 5px;
+        padding: 5px;
+        width: 15%;
+        margin-bottom: 1%;
+    }
+    .password{
+        border: solid;
+        border-radius: 5px;
+        padding: 5px;
+        width: 15%;
+        margin-bottom: 1%;   
+    }.log{
+        border: solid;
+        border-radius: 10px;
+        padding: 5px;
+        margin-left: 10px;
+        margin-top: 1%;
+    
+    }
+    .logopage{
+        text-align: center;
+        color: lightskyblue;
+        margin-right: 10%;
+        margin-bottom: 1%;
+        margin-left: 10%;
+    }
+    
+    .footer2{
+        background-color: lightskyblue;
+        height: px;
+        margin-top: 1%;
+    }
+    
+    
+    .report{
+        border: solid;
+        border-radius: 15px;
+        padding: 20px;
+        width: 20%;
+        margin-left: 1%; 
+    }
+    .contains{
+        margin-left: 10%;
+    }
+    .image3{
+        margin-left:10%;
+        width: 5%;
+        margin-bottom: 1%;
+    }
+    #quote4{
+        font-size: 100%; 
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    .login{
+        width: 230px;
+        height: 230px;
+    } 
+
+}
+
+
+
+
